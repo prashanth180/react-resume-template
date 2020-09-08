@@ -1,163 +1,174 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Prashanth Adepu",
+    "occupation": "Full Stack Developer",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpeg",
+    "bio": "I Love adding value to my work by creating unique web applications that solve real time problems, inturn making the companies processes easier. Have been part of learning and unlearning process throughout my career. I enjoy working on rails, reactjs and firebase, heroku platforms. ",
+    "contactmessage": "Are you looking for Web Solutions for your problems. Get In Touch with me",
+    "email": "a.prashanth18@gmail.com",
+    "address": {
+      "street": "Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana, India",
+      "zip": "500080"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "https://www.adepu.me",
+    "resumedownload": "https://drive.google.com/file/d/12ogS9ONvcTuFyAvp4yVJBzzmbQ409XU0/view?usp=sharing",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prashanthadepu/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "github",
+        "url": "http://github.com/prashanth180",
+        "className": "fa fa-github"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "twitter",
+        "url": "https://twitter.com/IPrashanthAdepu",
+        "className": "fa fa-twitter"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "reactjs",
+        "image_url": "react-js.png"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "rails",
+        "image_url": "rails.png"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "firebase",
+        "image_url": "firebase.png"
       },
       {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "name": "postgres",
+        "image_url": "postgressql.png"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "heroku",
+        "image_url": "heroku.png"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "CMRIT, Hyderabad",
+        "degree": "Bachelors In Technology, CSE",
+        "graduated": "April 2012",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Besthires.ai",
+        "title": "Full Stack Developer",
+        "years": "March 2017 - Present",
+        "description": "Developed the complete web application. It includes Chat bot and data analysis using IBM Watson to define users sentiment."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "DigbiHealth",
+        "title": "Full Stack Developer",
+        "years": "Nov 2018 - July 2020",
+        "description": "Developed the dashboard for Digbi, it includes typeforms, sendgrid, mailchimp and shopify integrations. Also worked on third party integrations."
+      },
+      {
+        "company": "ReportGarden(Now Tap Clicks)",
+        "title": "Full Stack Developer",
+        "years": "Oct 2016 - Mar 2017",
+        "description": "Developed downloadable dynamic excel sheet that includes integration on more than 10 third party tool integrations."
+      },
+      {
+        "company": "Housejoy(Funded by Amazon)",
+        "title": "Full Stack Developer",
+        "years": "Feb 2016 - Nov 2016",
+        "description": "Integrated Mywash dashboard onto Housejoy with new delivery partners"
+      },
+      {
+        "company": "Mywash(acquired by Housejoy)",
+        "title": "Full Stack Developer",
+        "years": "Jun 2015 - Jan 2016",
+        "description": "Developed dashboard for order creation, management, pickup and delivery management of laundry."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Git",
+        "level": "80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "70%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Rails",
+        "level": "90%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "CSS",
+        "level": "60%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "Postgres",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Digbihealth",
+        "category": "Health Care, Health coaching",
+        "image": "digbihealth.png",
+        "url": "https://digbihealth.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Besthires.ai",
+        "category": "Hiring solutions with data science",
+        "image": "besthires.png",
+        "url": "http://besthires.ai"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Housejoy",
+        "category": "People Services",
+        "image": "housejoy.png",
+        "url": "http://housejoy.in"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Swiggy Clone",
+        "category": "Swiggy Clone",
+        "image": "swiggy.png",
+        "url": "https://swiggy-5197c.web.app/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Netflix Clone",
+        "category": "Netflix Clone",
+        "image": "netflix.png",
+        "url": "https://netflix-c527f.web.app/"
+      },
+      {
+        "title": "Covid Tracker",
+        "category": "Covid Tracker",
+        "image": "covidtracker.png",
+        "url": "https://covid-tracker-1c16e.web.app/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "I have worked with Prashanth for over 3 1/2 years now on 2 significant and complex development efforts. He is always responsive, professional and thorough in his approach to coding, database design, UI/UX implementation and, most important, communication. His approach to a project is as a partner with a vested interest in its outcome and success for the client. I would not hesitate to recommend and use Prashanth on future projects.",
+        "user": "Jim A."
       }
     ]
   }
