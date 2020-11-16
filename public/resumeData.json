@@ -126,6 +126,7 @@
   },
   "portfolio": {
     "projects": [
+      
       {
         "title": "Digbihealth",
         "category": "Health Care, Health coaching",
@@ -155,6 +156,12 @@
         "category": "Netflix Clone",
         "image": "netflix.png",
         "url": "https://netflix-c527f.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone",
+        "image": "airbnb.png",
+        "url": "https://airbnb-3ab32.web.app/"
       },
       {
         "title": "Covid Tracker",
