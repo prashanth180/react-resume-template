@@ -2,16 +2,16 @@
   "main": {
     "name": "Prashanth Adepu",
     "occupation": "Full Stack Developer",
-    "description": "I enjoy coding complex user problems into simple web solutions. I love adding value to my work by efficient work.",
-    "image": "profilepic.jpeg",
-    "bio": "I Love adding value to my work by creating unique web applications that solve real time problems, inturn making the companies processes easier. Have been part of learning and unlearning process throughout my career. I enjoy working on rails, reactjs and firebase, heroku platforms. ",
+    "description": "Passionate about technology and leadership.",
+    "image": "resume_profile_pic.jpg",
+    "bio": "I enjoy developing applications ground up across domains. I have worked with companies through their lifecycles of mvp, bootstraped, funded and been part of more than 2 founding technology teams. Experienced working on rails, reactjs and firebase, heroku platforms. ",
     "contactmessage": "Are you looking for Web Solutions for your problems. Get In Touch with me",
     "email": "a.prashanth18@gmail.com",
     "address": {
       "street": "Hyderabad",
       "city": "Hyderabad",
       "state": "Telangana, India",
-      "zip": "500080"
+      "zip": ""
     },
     "website": "https://www.adepu.me",
     "resumedownload": "https://drive.google.com/file/d/12ogS9ONvcTuFyAvp4yVJBzzmbQ409XU0/view?usp=sharing",
@@ -56,45 +56,52 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Been in a continuous process of learning and unlearning of technologies. I love full stack development and developed multiple live applications. Experienced working on multiple projects at a given point of time.",
+    "skillmessages": ["In a continuous process of learning and unlearning", "Experienced in creating web solutions ground up"],
     "education": [
       {
-        "school": "CMRIT, Hyderabad",
-        "degree": "Bachelors In Technology, CSE",
-        "graduated": "April 2012",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "IIIT, Hyderabad",
+        "degree": "Master of Science, IT",
+        "graduated": "April 2015",
+        "description": "Passed out with a 9 GPA, with specialization in Data Science."
       }
     ],
     "work": [
       {
-        "company": "Besthires.ai",
-        "title": "Full Stack Developer",
-        "years": "March 2017 - Present",
-        "description": "Developed the complete web application. It includes Chat bot and data analysis using IBM Watson to define users sentiment."
+        "company": "Pinnacle Software Solutions, Pvt Ltd",
+        "title": "Founder",
+        "years": "July 2020- Present",
+        "description": "A technology services company. Onboarded clients, developed web applications ground up for clients from health, HR, Energy domains. "
       },
       {
         "company": "DigbiHealth",
-        "title": "Full Stack Developer",
+        "title": "Technology Lead",
         "years": "Nov 2018 - July 2020",
-        "description": "Developed the dashboard for Digbi, it includes typeforms, sendgrid, mailchimp and shopify integrations. Also worked on third party integrations."
+        "description": "A caring, innovative digital therapeutics company focused on empowering individuals who struggle under the misguidance of one-size-fits-all health programs.<br/>Part of developing team for client tracking dashboard, includes integrations of typeforms, sendgrid, mailchimp and shopify integrations. Also worked on third party integrations."
       },
       {
         "company": "ReportGarden(Now Tap Clicks)",
         "title": "Full Stack Developer",
         "years": "Oct 2016 - Mar 2017",
-        "description": "Developed downloadable dynamic excel sheet that includes integration on more than 10 third party tool integrations."
+        "description": " A Reporting SAAS tool for Digital Marketing Agencies. Developed downloadable excel report based on users data from more than 10 third party marketing tools."
       },
       {
-        "company": "Housejoy(Funded by Amazon)",
+        "company": "Besthires.ai",
+        "title": "Full Stack Developer",
+        "years": "March 2017 - Present",
+        "description": "Besthires.ai is a hiring platform using sophisticated machine learning to pinpoint best candidates for jobs. Best candidates are derived by individual personality, needs, values and past performance.<br/>Developed complete web application with features like scraping data, user reports, third party integrations, a chat bot and integrated IBM Watson, data algorithms for user sentiment analysis"
+      },
+      {
+        "company": "Housejoy (Funded by Amazon)",
         "title": "Full Stack Developer",
         "years": "Feb 2016 - Nov 2016",
-        "description": "Integrated Mywash dashboard onto Housejoy with new delivery partners"
+        "description": "A market place for home services. Integrated third party delivery partners for continuous pickup/delivery. "
       },
       {
-        "company": "Mywash(acquired by Housejoy)",
+        "company": "Mywash (acquired by Housejoy)",
         "title": "Full Stack Developer",
         "years": "Jun 2015 - Jan 2016",
-        "description": "Developed dashboard for order creation, management, pickup and delivery management of laundry."
+        "description": "An operations driven Laundry management tool, with a potential of becoming a market place for home services. Part of Founding engineering team. Developed a laundry management system driven by operations for order creation, management, pickup and delivery of laundry."
       }
     ],
     "skills": [
